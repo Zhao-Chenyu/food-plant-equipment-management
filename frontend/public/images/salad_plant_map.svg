@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3300 2051">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13 {
+        fill-rule: evenodd;
+        stroke: #d9d9d9;
+        stroke-linejoin: round;
+      }
+
+      .st0, .st2, .st3, .st8, .st9, .st11, .st13 {
+        stroke-width: 9px;
+      }
+
+      .st0, .st10 {
+        fill: #a6a6a6;
+      }
+
+      .st1, .st3 {
+        fill: #f79c42;
+      }
+
+      .st1, .st4, .st5, .st6, .st7, .st10, .st12 {
+        stroke-width: 9.2px;
+      }
+
+      .st14 {
+        fill: #474b52;
+      }
+
+      .st2, .st7 {
+        fill: #a2c4c9;
+      }
+
+      .st15 {
+        font-family: SegoeUI, 'Segoe UI';
+      }
+
+      .st15, .st16, .st17 {
+        isolation: isolate;
+      }
+
+      .st15, .st17 {
+        fill: #fff;
+        font-size: 64px;
+      }
+
+      .st4, .st8 {
+        fill: #9ed391;
+      }
+
+      .st5, .st11 {
+        fill: #f4cc70;
+      }
+
+      .st18 {
+        fill: #474b53;
+      }
+
+      .st6, .st13 {
+        fill: #6fb7c3;
+      }
+
+      .st9, .st12 {
+        fill: #6d9eeb;
+      }
+
+      .st19 {
+        fill: #f5faf7;
+      }
+
+      .st17 {
+        font-family: Calibri, Calibri;
+      }
+    </style>
+  </defs>
+  <path class="st19" d="M0,0h3300v2051H0V0Z"/>
+  <g id="salad-salad1">
+    <path class="st0" d="M168.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5H196.1c-15.2,0-27.5-12.3-27.5-27.5v-110.2h-.1Z"/>
+    <path class="st10" d="M172.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27H199.5c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st15" transform="translate(277.2 455)"><tspan x="0" y="0">Salad1</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-rawinput">
+    <path class="st2" d="M649.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st7" d="M653.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st15" transform="translate(709.8 455)"><tspan x="0" y="0">Raw</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st15" transform="translate(845 455)"><tspan x="0" y="0">Input</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-manualsorting">
+    <path class="st2" d="M1130.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st7" d="M1134.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1233.2 414)"><tspan x="0" y="0">Manual</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1239.8 492)"><tspan x="0" y="0">Sorting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-cutting">
+    <path class="st3" d="M1611.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st1" d="M1615.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1719 454)"><tspan x="0" y="0">Cutting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-bubblewashing">
+    <path class="st11" d="M2092.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st5" d="M2096.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2203.3 414)"><tspan x="0" y="0">Bubble</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2182.9 492)"><tspan x="0" y="0">W</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2238 492)"><tspan x="0" y="0">ashing</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-ultrasoniccleaning">
+    <path class="st11" d="M2573.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st5" d="M2577.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2643.7 414)"><tspan x="0" y="0">Ultrasonic</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2663.4 492)"><tspan x="0" y="0">Cleaning</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-opticalsorting">
+    <path class="st9" d="M2573.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st12" d="M2577.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2683.5 700)"><tspan x="0" y="0">Optical</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2682.9 778)"><tspan x="0" y="0">Sorting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-spindrying">
+    <path class="st13" d="M2092.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st6" d="M2096.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2149.5 739)"><tspan x="0" y="0">Spin</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2275.6 739)"><tspan x="0" y="0">drying</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-weighingandfilling">
+    <path class="st8" d="M1611.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1615.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1662.4 700)"><tspan x="0" y="0">Weighing &amp;</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1737.4 778)"><tspan x="0" y="0">Filling</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad1-labelandpacking">
+    <path class="st8" d="M1130.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1134.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1234.7 700)"><tspan x="0" y="0">Label &amp;</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1233.9 778)"><tspan x="0" y="0">P</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1265.8 778)"><tspan x="0" y="0">acking</tspan></text>
+    </g>
+  </g>
+  <path class="st14" d="M1051,425.8h57.5v10.3h-57.5v-10.3ZM1103.3,415.5l31,15.5-31,15.5v-31Z"/>
+  <path class="st14" d="M1532.5,426.9h60.3v9.2h-60.3v-9.2ZM1588.3,417.8l27.5,13.7-27.5,13.7v-27.4Z"/>
+  <path class="st14" d="M2013.5,426.9h60.4v9.2h-60.4v-9.2ZM2069.3,417.8l27.5,13.7-27.5,13.7v-27.4Z"/>
+  <path class="st14" d="M2494.5,426.9h60.4v9.2h-60.4v-9.2ZM2550.3,417.8l27.5,13.7-27.5,13.7v-27.4Z"/>
+  <polygon class="st14" points="2041 712.9 2041 703.8 2013.5 717.5 2041 731.3 2041 722.1 2096.8 722.1 2096.8 712.9 2041 712.9"/>
+  <path class="st14" d="M1614.8,716.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st14" d="M2771.9,512.5h9.2v101h-9.2v-101ZM2790.2,608.9l-13.7,27.5-13.7-27.5h27.4Z"/>
+  <g id="salad-salad2">
+    <path class="st0" d="M168.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4H195.9c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st10" d="M172.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8H199.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st15" transform="translate(277.2 1199)"><tspan x="0" y="0">Salad2</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-rawinput">
+    <path class="st2" d="M649.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st7" d="M653.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st15" transform="translate(709.8 1199)"><tspan x="0" y="0">Raw</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st15" transform="translate(845 1199)"><tspan x="0" y="0">Input</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-manualsorting">
+    <path class="st2" d="M1130.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st7" d="M1134.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1233.2 1158)"><tspan x="0" y="0">Manual</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1239.8 1236)"><tspan x="0" y="0">Sorting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-cutting">
+    <path class="st3" d="M1611.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st1" d="M1615.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1719 1198)"><tspan x="0" y="0">Cutting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-bubblewashing">
+    <path class="st11" d="M2092.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st5" d="M2096.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2203.3 1158)"><tspan x="0" y="0">Bubble</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2182.9 1236)"><tspan x="0" y="0">W</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2238 1236)"><tspan x="0" y="0">ashing</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-ultrasoniccleaning">
+    <path class="st11" d="M2573.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st5" d="M2577.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2643.7 1158)"><tspan x="0" y="0">Ultrasonic</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2663.4 1236)"><tspan x="0" y="0">Cleaning</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-opticalsorting">
+    <path class="st9" d="M2573.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st12" d="M2577.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2683.5 1444)"><tspan x="0" y="0">Optical</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2682.9 1522)"><tspan x="0" y="0">Sorting</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-spindrying">
+    <path class="st13" d="M2092.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st6" d="M2096.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(2149.5 1484)"><tspan x="0" y="0">Spin</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(2275.6 1484)"><tspan x="0" y="0">drying</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-weighingandfilling">
+    <path class="st8" d="M1611.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1615.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1662.4 1444)"><tspan x="0" y="0">Weighing &amp;</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1737.4 1522)"><tspan x="0" y="0">Filling</tspan></text>
+    </g>
+  </g>
+  <g id="salad-salad2-labelandpacking">
+    <path class="st8" d="M1130.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1134.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st16">
+      <text class="st17" transform="translate(1234.7 1444)"><tspan x="0" y="0">Label &amp;</tspan></text>
+    </g>
+    <g class="st16">
+      <text class="st17" transform="translate(1233.9 1522)"><tspan x="0" y="0">Packing</tspan></text>
+    </g>
+  </g>
+  <path class="st14" d="M1107.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st14" d="M1588.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st14" d="M2069.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st14" d="M2550.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st14" d="M2577.8,1466.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st14" d="M2096.8,1466.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st14" d="M1614.8,1460.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st14" d="M2790.2,1352.9l-13.7,27.5-13.7-27.5h9.1v-96.4h9.2v96.4h9.1Z"/>
+  <polygon class="st18" points="2522 703.8 2494.5 717.5 2522 731.3 2522 703.8"/>
+  <path class="st18" d="M2577.8,712.9v9.2h-60.4v-9.2h60.4Z"/>
+</svg>

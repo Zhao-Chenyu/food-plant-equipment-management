@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3300 2051">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13 {
+        fill-rule: evenodd;
+        stroke: #d9d9d9;
+        stroke-linejoin: round;
+      }
+
+      .st0, .st2, .st3, .st8, .st9, .st11, .st13 {
+        stroke-width: 9px;
+      }
+
+      .st0, .st10 {
+        fill: #a6a6a6;
+      }
+
+      .st14 {
+        font-size: 55px;
+      }
+
+      .st14, .st15, .st16 {
+        isolation: isolate;
+      }
+
+      .st14, .st16 {
+        fill: #fff;
+        font-family: Calibri, Calibri;
+      }
+
+      .st1, .st3 {
+        fill: #f79c42;
+      }
+
+      .st1, .st4, .st5, .st6, .st7, .st10, .st12 {
+        stroke-width: 9.2px;
+      }
+
+      .st17 {
+        fill: #474b52;
+      }
+
+      .st2, .st7 {
+        fill: #a2c4c9;
+      }
+
+      .st4, .st8 {
+        fill: #9ed391;
+      }
+
+      .st18 {
+        fill: none;
+      }
+
+      .st5, .st11 {
+        fill: #f4cc70;
+      }
+
+      .st19 {
+        fill: #474b53;
+      }
+
+      .st20 {
+        fill: #f8f6f2;
+      }
+
+      .st6, .st13 {
+        fill: #6fb7c3;
+      }
+
+      .st9, .st12 {
+        fill: #6d9eeb;
+      }
+
+      .st16 {
+        font-size: 64px;
+      }
+    </style>
+  </defs>
+  <path class="st20" d="M0,0h3300v2051H0V0Z"/>
+  <g id="vinegar-vinegar1">
+    <path class="st0" d="M168.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5H196.1c-15.2,0-27.5-12.3-27.5-27.5v-110.2h-.1Z"/>
+    <path class="st10" d="M172.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27H199.5c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(254.6 454)"><tspan x="0" y="0">Vinegar1</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-rawapplereceiving">
+    <path class="st2" d="M649.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st7" d="M653.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(713.2 414)"><tspan x="0" y="0">Raw Apple</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(727.8 492)"><tspan x="0" y="0">Receiving</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-applewashing">
+    <path class="st2" d="M1130.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st7" d="M1134.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1257 414)"><tspan x="0" y="0">Apple</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1220.9 492)"><tspan x="0" y="0">Washing</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-crushingandpulping">
+    <path class="st3" d="M1611.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st1" d="M1615.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1670.7 414)"><tspan x="0" y="0">Crushing &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1716.5 492)"><tspan x="0" y="0">Pulping</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-enzymatictreatment">
+    <path class="st11" d="M2092.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st5" d="M2096.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2162.9 414)"><tspan x="0" y="0">Enzymatic</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(2159.3 492)"><tspan x="0" y="0">Treatment</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-juicepressing">
+    <path class="st11" d="M2573.5,376.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2h0Z"/>
+    <path class="st5" d="M2577.5,377.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2711.8 414)"><tspan x="0" y="0">Juice</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(2667.8 492)"><tspan x="0" y="0">Pressing</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-filtration">
+    <path class="st9" d="M2573.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st12" d="M2577.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2657.7 739)"><tspan x="0" y="0">Filtration</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-frementationreaction">
+    <path class="st13" d="M2092.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st6" d="M2096.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st14" transform="translate(2143.5 702)"><tspan x="0" y="0">Fermentation</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st14" transform="translate(2197.4 769)"><tspan x="0" y="0">Reaction</tspan></text>
+    </g>
+  </g>
+  <path class="st17" d="M1103.3,446.5v-10.4h-52.3v-10.3h52.3v-10.3l31,15.5-31,15.5Z"/>
+  <path class="st17" d="M1588.3,445.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2069.3,445.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2550.3,445.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2577.8,722.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <g id="vinegar-vinegar2">
+    <path class="st0" d="M168.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4H195.9c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st10" d="M172.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8H199.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(254.6 1198)"><tspan x="0" y="0">Vinegar2</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-rawapplereceiving">
+    <path class="st2" d="M649.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st7" d="M653.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(713.2 1158)"><tspan x="0" y="0">Raw Apple</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(727.8 1236)"><tspan x="0" y="0">Receiving</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-applewashing">
+    <path class="st2" d="M1130.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st7" d="M1134.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1257 1158)"><tspan x="0" y="0">Apple</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1220.9 1236)"><tspan x="0" y="0">Washing</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-crushingandpulping">
+    <path class="st3" d="M1611.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5h0Z"/>
+    <path class="st1" d="M1615.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1670.7 1158)"><tspan x="0" y="0">Crushing &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1716.5 1236)"><tspan x="0" y="0">Pulping</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-enzymatictreatment">
+    <rect class="st18" x="2096.5" y="1095.5" width="398" height="161" rx="26.8" ry="26.8"/>
+    <path class="st11" d="M2092.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st5" d="M2096.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2162.9 1158)"><tspan x="0" y="0">Enzymatic</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(2159.3 1236)"><tspan x="0" y="0">Treatment</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-juicepressing">
+    <path class="st11" d="M2573.5,1121.3c0-15.1,12.3-27.4,27.4-27.4h351.2c15.1,0,27.4,12.3,27.4,27.4v109.5c0,15.1-12.3,27.4-27.4,27.4h-351.2c-15.1,0-27.4-12.3-27.4-27.4v-109.5Z"/>
+    <path class="st5" d="M2577.5,1122.3c0-14.8,12-26.8,26.8-26.8h344.3c14.8,0,26.8,12,26.8,26.8v107.3c0,14.8-12,26.8-26.8,26.8h-344.3c-14.8,0-26.8-12-26.8-26.8v-107.3Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2711.8 1158)"><tspan x="0" y="0">Juice</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(2667.8 1236)"><tspan x="0" y="0">Pressing</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-filtration">
+    <path class="st9" d="M2573.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st12" d="M2577.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(2657.7 1484)"><tspan x="0" y="0">Filtration</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-frementationreaction">
+    <path class="st13" d="M2092.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st6" d="M2096.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st14" transform="translate(2143.5 1446)"><tspan x="0" y="0">Fermentation</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st14" transform="translate(2197.4 1513)"><tspan x="0" y="0">Reaction</tspan></text>
+    </g>
+  </g>
+  <path class="st17" d="M1107.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M1588.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2069.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2550.3,1189.2v-9.1h-55.8v-9.2h55.8v-9.1l27.5,13.7-27.5,13.7Z"/>
+  <path class="st17" d="M2577.8,1466.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st17" d="M2790.2,1352.9l-13.7,27.5-13.7-27.5h9.1v-96.4h9.2v96.4h9.1Z"/>
+  <g id="vinegar-vinegar1-weighingandfilling">
+    <path class="st8" d="M1611.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1615.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1662.4 700)"><tspan x="0" y="0">Weighing &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1737.4 778)"><tspan x="0" y="0">Filling</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar1-labelandpacking">
+    <rect class="st18" x="1134.5" y="636.5" width="398" height="162" rx="27" ry="27"/>
+    <path class="st8" d="M1130.5,662.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1134.5,663.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1234.7 700)"><tspan x="0" y="0">Label &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1233.9 778)"><tspan x="0" y="0">P</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1265.8 778)"><tspan x="0" y="0">acking</tspan></text>
+    </g>
+  </g>
+  <path class="st17" d="M1614.8,716.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <g id="vinegar-vinegar2-weighingandfilling">
+    <rect class="st18" x="1615.5" y="1380.5" width="398" height="162" rx="27" ry="27"/>
+    <path class="st8" d="M1611.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1615.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1662.4 1444)"><tspan x="0" y="0">Weighing &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1737.4 1522)"><tspan x="0" y="0">Filling</tspan></text>
+    </g>
+  </g>
+  <g id="vinegar-vinegar2-labelandpacking">
+    <path class="st8" d="M1130.5,1406.4c0-15.2,12.3-27.5,27.5-27.5h350.9c15.2,0,27.5,12.3,27.5,27.5v110.2c0,15.2-12.3,27.5-27.5,27.5h-350.9c-15.2,0-27.5-12.3-27.5-27.5v-110.2Z"/>
+    <path class="st4" d="M1134.5,1407.5c0-14.9,12.1-27,27-27h344c14.9,0,27,12.1,27,27v108c0,14.9-12.1,27-27,27h-344c-14.9,0-27-12.1-27-27v-108Z"/>
+    <g class="st15">
+      <text class="st16" transform="translate(1234.7 1444)"><tspan x="0" y="0">Label &amp;</tspan></text>
+    </g>
+    <g class="st15">
+      <text class="st16" transform="translate(1233.9 1522)"><tspan x="0" y="0">Packing</tspan></text>
+    </g>
+  </g>
+  <path class="st17" d="M1614.8,1460.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st17" d="M2096.8,1466.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st17" d="M2096.8,722.1h-55.8v9.2l-27.5-13.8,27.5-13.7v9.1h55.8v9.2Z"/>
+  <path class="st19" d="M2790.2,608.9l-13.7,27.5-13.7-27.5h9.1v-96.4h9.2v96.4h9.1Z"/>
+</svg>
